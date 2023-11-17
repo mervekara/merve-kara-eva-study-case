@@ -1,4 +1,4 @@
-# merve-kara-eva-study-case
+# Eva Study Case
 
 ## Project setup
 ```
